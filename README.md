@@ -1,6 +1,6 @@
 ## 🖼️ Dashboard Preview
 
-![Hospital ER Dashboard](./Dashboard/ER_Dashboard_Screenshot.png)
+![Hospital ER Dashboard]([./Dashboard/ER_Dashboard_Screenshot.png](https://github.com/bhaskarpal1707/Hospital-Emergency-Room-Analysis-Using_Excel/blob/main/Dashboard%20of%20Hospital%20Emergency%20Room.PNG?raw=true))
 
 # 🏥 Hospital Emergency Room Analysis Dashboard – Advanced Excel Project
 
