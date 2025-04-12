@@ -27,20 +27,3 @@ graph TD
     I --> J[Dashboard / Report Development]
     J --> K[Insights Generation]
 
-📊 Key Performance Indicators (KPIs)
-Here are the primary KPIs tracked in the dashboard:
-
-1. Number of Patients
-Description: Total number of patients visiting the ER each day.
-
-Visualization: Area sparkline showing daily trends to identify peak times and seasonal patterns.
-
-2. Average Wait Time
-Description: Average time patients wait to be seen by a medical professional.
-
-Visualization: Area sparkline tracking daily wait times; highlights days needing operational improvement.
-
-3. Patient Satisfaction Score
-Description: Daily average of patient satisfaction scores.
-
-Visualization: Area sparkline to detect service quality trends and dips.
