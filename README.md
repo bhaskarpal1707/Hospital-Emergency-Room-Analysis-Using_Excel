@@ -1,3 +1,7 @@
+## 🖼️ Dashboard Preview
+
+![Hospital ER Dashboard](./Dashboard/ER_Dashboard_Screenshot.png)
+
 # 🏥 Hospital Emergency Room Analysis Dashboard – Advanced Excel Project
 
 ## 📌 Project Overview
